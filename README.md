@@ -74,6 +74,12 @@ pip install opencv-python pyautogui gaze_tracking tensorflow
 
 Once the dependencies are installed, simply run the Python script to start the eye tracking system.
 
+## Download the Article
+
+You can access the full article here:
+
+[Download the PDF of the Article](docs/Artigo_EyesOn_Guilherme-1.pdf)
+
 ## License
 
 This project is **NOT** open source. All rights are reserved, and no part of this code may be used, modified, or redistributed without the author's explicit permission.
