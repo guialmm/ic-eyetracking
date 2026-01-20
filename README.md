@@ -78,7 +78,7 @@ Once the dependencies are installed, simply run the Python script to start the e
 
 You can access the full article here:
 
-[Download the PDF of the Article](docs/Artigo_EyesOn_Guilherme-1.pdf)
+[Download the PDF of the Article](Artigo_EyesOn_Guilherme.pdf)
 
 ## License
 
