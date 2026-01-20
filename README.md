@@ -76,4 +76,9 @@ Once the dependencies are installed, simply run the Python script to start the e
 
 ## License
 
-This project is licensed under the MIT License.
+## License
+
+This project is **NOT** open source. All rights are reserved, and no part of this code may be used, modified, or redistributed without the author's explicit permission.
+
+For inquiries regarding the use of this code, please contact the author at [guilherme.almeida@ges.inatel.br].
+
