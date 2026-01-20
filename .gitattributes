@@ -4,3 +4,5 @@ blinkmain/blinkmain/env/gazetracking/gaze_tracking/trained_models/shape_predicto
 blinkmain/blinkmain/modelo_eyetracking_LR_FIXO.pth filter=lfs diff=lfs merge=lfs -text
 blinkmain/blinkmain/melhor_modelo_eyetracking_CORRIGIDO.pth filter=lfs diff=lfs merge=lfs -text
 blinkmain/blinkmain/captured_faces/fotos.zip filter=lfs diff=lfs merge=lfs -text
+blinkmain/captured_faces/fotos.zip filter=lfs diff=lfs merge=lfs -text
+blinkmain/melhor_modelo_eyetracking_CORRIGIDO.pth filter=lfs diff=lfs merge=lfs -text
